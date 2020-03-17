@@ -1,6 +1,6 @@
 ## Zasilacz Laboratoryjny 
 
-Przedstawiam projekt zasilacza synetrycznego, +15/-15 Volt, opartego na popularnych linowowych scalonych stabilizatorach napięcia. Projekt przygotowany w KiCad, płytka drukowana jednostronna, do wykonania w domu, własnej pracowni, czy laboratorium. Poniżej schemat:
+Przedstawiam projekt zasilacza symetrycznego, +15/-15 Volt, opartego na popularnych linowowych scalonych stabilizatorach napięcia. Projekt przygotowany w KiCad, płytka drukowana jednostronna, do wykonania w domu, własnej pracowni, czy laboratorium. Poniżej schemat:
 
 ![diagram]( https://github.com/majsterklepka/stunning-giggle/raw/master/plot/power-supply-dia.png "Schemat ideowy")
 
