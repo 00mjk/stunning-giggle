@@ -2,11 +2,11 @@
 
 Przedstawiam projekt zasilacza synetrycznego, +15/-15 Volt, opartego na popularnych linowowych scalonych stabilizatorach napięcia. Projekt przygotowany w KiCad, płytka drukowana jednostronna, do wykonania w domu, własnej pracowni, czy laboratorium. Poniżej schemat:
 
-![diagram](/plot/power-supply-dia.png "Schemat ideowy")
+![diagram]( https://github.com/majsterklepka/stunning-giggle/raw/master/plot/power-supply-dia.png" Schemat ideowy")
 
 Dla zainteresownych przygotowałem poglądowy obrazek z wyglądem płytki drukowanej:
 
-![pcb-layout](/plot/power-supply-brd.png "PCB Layout")
+![pcb-layout](https://github.com/majsterklepka/stunning-giggle/raw/master/plot/power-supply-brd.png" PCB Layout")
 
 ### Credits
 
