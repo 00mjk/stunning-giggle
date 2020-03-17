@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Zasilacz Laboratoryjny 
 
-You can use the [editor on GitHub](https://github.com/majsterklepka/stunning-giggle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Przedstawiam projekt zasilacza synetrycznego, +15/-15 Volt, opartego na popularnych linowowych scalonych stabilizatorach napięcia. Projekt przygotowany w KiCad, płytka drukowana jednostronna, do wykonania w domu, własnej pracowni, czy laboratorium. Poniżej schemat:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![diagram](/plot/power-supply-dia.png "Schemat ideowy")
 
-### Markdown
+Dla zainteresownych przygotowałem poglądowy obrazek z wyglądem płytki drukowanej:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![pcb-layout](/plot/power-supply-brd.png "PCB Layout")
 
-```markdown
-Syntax highlighted code block
+### Credits
 
-# Header 1
-## Header 2
-### Header 3
+Całość projektu jest opublikowana na podstawie treści licencji: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/ "license content") 
 
-- Bulleted
-- List
+Projekt można wykorzystywać zarówno do swoich osobistych celów jak i do celów zarobkowych. Podobne projekty dostępne są w wielu firmach wytwarzających kity DIY, projekt powstał na własne zapotrzebowanie Autora i jest jego wyłączną własnością.
 
-1. Numbered
-2. List
+> Należy trochę pogłówkować aby otrzymać rysunek obwodu drukowanego. Można to zrobić również poprzez wydruk arkusza z projektem PCB. Celowo nie zamieszczam wszystkich plików projektowych, bo to nie na tym polega ... !!
 
-**Bold** and _Italic_ and `Code` text
+_MSc. Paweł Sobótka (SQ7EQE)_
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/majsterklepka/stunning-giggle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
