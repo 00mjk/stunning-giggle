@@ -4,7 +4,7 @@ Przedstawiam projekt zasilacza symetrycznego, +15/-15 Volt, opartego na popularn
 
 [diagram]( https://github.com/majsterklepka/stunning-giggle/raw/main/power-supply.pdf "Schemat ideowy")
 
-W katalogu Gerber/ azmieszczone zostały pliki z rysunkiem płytki drukowanej.
+W katalogu Gerber/ zamieszczone zostały pliki z rysunkiem płytki drukowanej, oczywiście w formacie Gerber.
 
 ## Credits
 
