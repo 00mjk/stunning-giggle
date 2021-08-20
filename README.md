@@ -2,7 +2,7 @@
 
 Przedstawiam projekt zasilacza symetrycznego, +15/-15 Volt, opartego na popularnych linowowych scalonych stabilizatorach napięcia. Projekt przygotowany w KiCad, płytka drukowana jednostronna, do wykonania w domu, własnej pracowni, czy laboratorium. Poniżej schemat:
 
-[diagram]( https://github.com/majsterklepka/stunning-giggle/raw/main/power-supply.pdf "Schemat ideowy")
+[schematics-diagram.pdf]( https://github.com/majsterklepka/stunning-giggle/raw/main/power-supply.pdf "Schemat ideowy")
 
 W katalogu Gerber/ zamieszczone zostały pliki z rysunkiem płytki drukowanej, oczywiście w formacie Gerber.
 
